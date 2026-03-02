@@ -13,8 +13,9 @@ I'm a **3D Product Design Engineer** & **IT Support student** based in Boston, M
 ###  My Projects
 Here are some of the things I've built:
 
-- [**Toyota Sunglasses Holder**](https://github.com/3D-aslan/PriusSunglassesHolder): Custom 3D-printed sunglasses holder for the 2023 Toyota Prius  
-- [**Toyota Console Cover**](https://github.com/3D-aslan/PriusConsoleCover): Custom 3D-printed button guard for the 2023 Toyota Prius  
+- [**AI Brain / Controlling Cozmo Robot**](https://github.com/3D-aslan/cozmo-direct-control): Integrating LLM (Ollama/Gemini) to Cozmo robot and controlling the robot
+- [**Toyota Sunglasses Holder**](https://github.com/3D-aslan/PriusSunglassesHolder): Custom 3D-designed/printed sunglasses holder 
+- [**Toyota Console Cover**](https://github.com/3D-aslan/PriusConsoleCover): Custom 3D-designed/printed button guard 
 - [**3DOF Cartesian Robot**](https://github.com/3D-aslan/3DOF_Cartesian_Robot): Arduino-controlled 3-axis robot built for precision motion  
 - [**AI Generated 3D Collection**](https://github.com/3D-aslan/AI_Generated_3D_Collection): AI-to-3D modeling pipeline with printed examples
 
